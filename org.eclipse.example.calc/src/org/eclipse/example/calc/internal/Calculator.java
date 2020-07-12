@@ -40,6 +40,8 @@ public class Calculator {
 		new Minus();
 		new Plus();
 		new Square();
+		new Divide();
+		
 	}
 
 	// fixed: textProvider value may be null or empty String
